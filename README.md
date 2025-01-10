@@ -1,2 +1,3 @@
-# .github
-Describes the organisation and holds templates
+# FDND-Deck
+
+It's where presentations for our talks en workshops live...
