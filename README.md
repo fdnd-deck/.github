@@ -11,7 +11,7 @@ Op MARP gebaseerde presentaties bestaan voornamelijk uit tekst en `<iframe>` ele
 ### build-deck
 
 1. ACTION: Als er gepushed wordt op de main branch in een repo in de organisatie
-2. ACTION: Kopieer alle bestanden uit betreffende branch naar de `/tmp-deck` in .github
+2. ACTION: Kopieer alle bestanden uit betreffende branch naar de `/tmp-deck` in deze `.github` repository
 3. NPM: Draai het script in `/src`
 4. ACTION: Publiceer alle bestanden uit `/build` via gh-pages in de betreffende repo in de organisatie
 5. ACTION: trigger update-deck.fdnd.nl
